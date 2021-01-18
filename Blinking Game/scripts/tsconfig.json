@@ -1,1 +1,10 @@
-{"compilerOptions":{"baseUrl":"C:/Program Files/Spark AR Studio/v69/Resources/skylight-typedefs","allowJs":true,"checkJs":true},"include":["*.js"]}
+{
+    "compilerOptions": {
+        "baseUrl": "C:/Program Files/Spark AR Studio/v69/Resources/skylight-typedefs",
+        "allowJs": true,
+        "checkJs": true
+    },
+    "include": [
+        "*.js"
+    ]
+}
